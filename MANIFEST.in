@@ -1,0 +1,6 @@
+include README.md
+include LICENSE
+include pandas_accounting/*.py
+
+include pandas_accounting/tests/*.py
+include pandas_accounting/tests/data/*
